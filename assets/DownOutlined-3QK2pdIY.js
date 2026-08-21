@@ -1,0 +1,1 @@
+import{r as e,q as o,e as t}from"./index-C257DcCV.js";import{D as a}from"./DownOutlined-d81Vexx6.js";var i=function(r,n){return e.createElement(o,t({},r,{ref:n,icon:a}))},d=e.forwardRef(i);export{d as R};

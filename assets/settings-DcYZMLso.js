@@ -1,0 +1,1 @@
+import{c as i,t as g,D as s}from"./index-C257DcCV.js";const o=i()(g(t=>({settings:{...s},setSettings:e=>t(n=>({settings:{...n.settings,...e}})),resetSettings:()=>t({settings:{...s}})}),{name:"kaoyan408.settings",version:1})),a=o;export{a as settingsStore,o as useSettingsStore};
